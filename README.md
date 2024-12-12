@@ -1,7 +1,9 @@
 # CODE_ANTICHEAT
 Project version 1.0
 
-To start use this rep you should have already installed Java 21 version (21.0.2 for example), Gradle 8.11.1, JavaFX 21.0.2.
+To start use this repo you should have already installed Java 21 version (21.0.2 for example), Gradle 8.11.1, JavaFX 21.0.2.
+
+As default location useful file&directory i specify disk E:\\, but you can also change location of JavaDataBase directory and text.txt in public methods: getPathToFile() & getPathToDB(). 
 
 To open JAR file from shell use command with FX parametres. 
 
