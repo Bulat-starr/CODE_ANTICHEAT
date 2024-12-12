@@ -9,4 +9,8 @@ For example: java --module-path /path/to/javafx-sdk-21.0.2/lib --add-modules jav
 
 Also, you can find JavaDoc files in appropriate directory.
 
+To build project use Gradle commands in IDEA.
+
+For example: ./gradlew clean build
+
 Author: Sabirullov Bulat
